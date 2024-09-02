@@ -6,6 +6,7 @@ import { useState,useEffect} from 'react';
 
 export default function ReadBlog() {
   //Trying to Debug
+  //Still not working
 
   const [post,setPost]=useState({})
 
